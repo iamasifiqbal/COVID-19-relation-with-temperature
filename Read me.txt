@@ -1,0 +1,8 @@
+This Project is done to see the relation between Number of cases per million vs  temperature and Number of cases per million vs  humidity.
+
+Information of the Excel file is taken from the WHO ( https://www.worldometers.info/coronavirus/ ) in 4 april 2020. Information about the temperature and Humidity is taken form https://www.timeanddate.com/ in time between 17 march to 3 april. Here we take the average temperature and humidity of that time-span
+
+Here we approach Linear Regression in order to see the relation between them. Clearly we can see the slope is decreasing as the temperature is increasing. this clearly showing us a relation between these two parameters. Again we can see that there are no good relation between Number of cases per million vs  humidity
+
+
+
